@@ -2,7 +2,7 @@
     "name": "bourlon/projet-blog",
     "autoload": {
         "psr-4": {
-            "Bourlon\\ProjetBlog\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
