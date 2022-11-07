@@ -1,0 +1,15 @@
+{
+    "name": "bourlon/projet-blog",
+    "autoload": {
+        "psr-4": {
+            "Bourlon\\ProjetBlog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Felana Bourlon",
+            "email": "bourlon_f@yahoo.fr"
+        }
+    ],
+    "require": {}
+}
